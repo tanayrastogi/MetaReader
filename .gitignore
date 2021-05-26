@@ -131,8 +131,9 @@ dmypy.json
 # Visual Studio Code
 .vscode/
 
-# Test images
+# Test data
 images/
+videos/ 
 
 # Meta File
-metaData.csv
+metaData*
